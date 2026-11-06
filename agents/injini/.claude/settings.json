@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python injini.py enrol:*)",
+      "Bash(python injini.py score:*)",
+      "Bash(python injini.py machines:*)",
+      "Bash(python injini.py learn:*)",
+      "Read"
+    ],
+    "ask": [
+      "Bash(python injini.py stop:*)"
+    ]
+  }
+}
